@@ -4,4 +4,4 @@ For some of the projects, I adjusted portions of the code to work on simplified 
 
 | Notebook      | Reference Notebook |
 |---------------|---------------------|
-| [Bigrams Part 1:The spelled-out intro to language modeling: building makemore](Makemore/makemore_github.ipynb) | [Original Notebook](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part1_bigrams.ipynb) |
+| [Bigrams Part 1: The spelled-out intro to language modeling: building makemore](makemore_github.ipynb) | [Original Notebook](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part1_bigrams.ipynb) |
