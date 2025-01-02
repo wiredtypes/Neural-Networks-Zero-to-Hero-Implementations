@@ -1,6 +1,6 @@
-My personal implementations and notes following [Karpathy's Neural Networks: Zero to Hero series](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ).
+My notes following [Karpathy's Neural Networks: Zero to Hero series](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ).
 
-For some of the projects, I adjusted portions of the code to work on simplified toy problems, making it easier to explain and understand the concepts through accessible examples. The overall code is identical to Karpathy's original work.
+For some of the projects, I adjusted portions of the code to work on simplified toy problems, making it easier to explain and understand the concepts through accessible examples. 
 
 | Notebook      | Reference Notebook |
 |---------------|---------------------|
